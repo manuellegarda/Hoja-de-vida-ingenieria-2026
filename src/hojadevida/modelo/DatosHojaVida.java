@@ -6,19 +6,19 @@ package hojadevida.modelo;
 public class DatosHojaVida {
 
     // ========== PERSONALIZA TUS DATOS AQUÍ ==========
-    private String nombre = "Tu Nombre Completo";
-    private String titulo = "Estudiante de Estructura de Datos";
-    private String ciudad = "Ciudad, País";
-    private String telefono = "+57 XXX XXX XXXX";
-    private String email = "tu@email.com";
-    private String github = "github.com/tu-usuario";
+    private String nombre = "Manuel Arturo Melo Legarda";
+    private String titulo = "]Ingeniero Informático y Tecnólogo en desarrollo en Software";
+    private String ciudad = "Colmbia, Popayán";
+    private String telefono = "+57 317 8538119";
+    private String email = "manuel.melo@unimayor.edu.co";
+    private String github = "github.com/manuellegarda";
     private String[] habilidadesTecnicas = {"Java", "Git y GitHub", "Programación", "Estructura de Datos"};
     private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación", "Resolución de problemas"};
-    private String idiomas = "Español - Nativo\nEnglish - Básico (B2)";
-    private String perfil = "Escribe aquí 2-3 oraciones sobre ti, tus intereses y objetivos profesionales.";
+    private String idiomas = "Español - Nativo\nEnglish - Básico (B2) - Intermedio -";
+    private String perfil = "Docente tiempo completo Institución Universitaria, Diseña algoritmos y programas para solucionar problemas específicos, aplicando el paradigma orientado a objetos.";
     private String experiencia = "2024-2025\n[Cargo] - [Empresa]\n[Ciudad]";
     private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
-    private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
+    private String[] areasInteres = {"Estructura de Datos y algortimos", "Procesamiento de lenguaje natural", "Ingeniería de Software y hardware"};
     private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
     
     // =================================================
