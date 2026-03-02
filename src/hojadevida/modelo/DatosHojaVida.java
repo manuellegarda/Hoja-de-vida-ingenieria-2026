@@ -19,7 +19,9 @@ public class DatosHojaVida {
     private String experiencia = "2024-2025\n[Cargo] - [Empresa]\n[Ciudad]";
     private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
     private String[] areasInteres = {"Estructura de Datos y algortimos", "Procesamiento de lenguaje natural", "Ingeniería de Software y hardware"};
-    private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
+    private String proyectos = "• [PLN En detección de emociones] - [deteccion mediante lenguaje natural de emociones en texto]\n" +
+            "• [Simulación de tráfico] - [Simulación de tráfico vehicular utilizando algoritmos de optimización]\n" +
+            "• [Sistema de recomendación] - [Desarrollo de un sistema de recomendación de películas utilizando técnicas de aprendizaje automático]";
     
     // =================================================
 
