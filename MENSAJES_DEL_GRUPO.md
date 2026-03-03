@@ -5,6 +5,7 @@ Documento para el ejercicio colaborativo.
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Tu mensaje aquí
 <<<<<<< HEAD
 "Los amo padres"
@@ -26,6 +27,9 @@ Documento para el ejercicio colaborativo.
 >>>>>>> 92330d7178f7b8ac5fe35e9ae3c5f717a465613d
 =======
 ## Estes es mi aporte a este proyecto
+=======
+## Mi aporte es... Maria Isabel Velasco
+>>>>>>> 743ca43b0bb1d681f759baa8aacf8dbb4561a16f
 
 *(Agrega tu sección cuando hagas el Ejercicio 3)*
 ## yenci yuliana españa este es mi aporte 
