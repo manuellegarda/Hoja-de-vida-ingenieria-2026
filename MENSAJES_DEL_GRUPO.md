@@ -4,6 +4,7 @@ Documento para el ejercicio colaborativo.
 
 ---
 
+<<<<<<< HEAD
 ## Tu mensaje aquí
 <<<<<<< HEAD
 "Los amo padres"
@@ -23,3 +24,9 @@ Documento para el ejercicio colaborativo.
 *(Agrega tu sección cuando hagas el Ejercicio 3)*
 ## Liney tatiana anacona este es mi aporte 
 >>>>>>> 92330d7178f7b8ac5fe35e9ae3c5f717a465613d
+=======
+## Estes es mi aporte a este proyecto
+
+*(Agrega tu sección cuando hagas el Ejercicio 3)*
+## yenci yuliana españa este es mi aporte 
+>>>>>>> 2f349c968393320d41d9ed80bdfed6413e393dbf
