@@ -6,22 +6,22 @@ package hojadevida.modelo;
 public class DatosHojaVida {
 
     // ========== PERSONALIZA TUS DATOS AQUÍ ==========
-    private String nombre = "MANUEL ARTURO MELO LEGARDA";
+    private String nombre = "Erik Santiago Ruano Macias";
     private String titulo = "ingeniero en informática";
     private String ciudad = "Popayán, Cauca, Colombia";
-    private String telefono = "+57 3178538119";
-    private String email = "manuel.melo@unimayor.edu.co";
-    private String github = "github.com/manuellegarda";
+    private String telefono = "+57 3014144584";
+    private String email = "erikruano383@gmail.com";
+    private String github = "github.com/Santiago Ruano";
     //------------------------------------------------------------//
-    private String[] habilidadesTecnicas = {"Java", "Git y GitHub", "Programación java", "Estructura de Datos"};
-    private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación y codigo limpio", "Resolución de problemas"};
-    private String idiomas = "Español - Nativo\nEnglish - Básico (B2)\n Italiano";
-    private String perfil = "Docente de tiempo completo IUCMC";
-    private String experiencia = "2024-2025\n[docente] - [UNIMAYOR]\n[Popayán]";
+    private String[] habilidadesTecnicas = {"Java", "python", "Git y GitHub", "Programación java", "Estructura de Datos"};
+    private String[] habilidadesBlandas = {"Trabajo en equipo", "Codigo limpio", "Resolucion de problemas", "Gestor de tiempo", "proactividad" };
+    private String idiomas = "Español - Nativo\nEnglish - Básico (B2)\n";
+    private String perfil = "Estudiante universitario de tiempo completo en IUCMC";
+    private String experiencia = "";
     //-------------------------------------------------------------//
-    private String educacion = "2020-2025\n[IUCMC] - [IUCMC]\n[Popayán]";
-    private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
-    private String proyectos = "• [Valeri  ] - [proyecto educativo]";
+    private String educacion = "2022-2027\n[IUCMC] - [IUCMC]\n[Popayán]";
+    private String[] areasInteres = {"Desarrollo Backend", "Bases de Datos", "Buenas Prácticas de Programación"};
+    private String proyectos = "";
     // =================================================
 
     public String getNombre() { return nombre; }
