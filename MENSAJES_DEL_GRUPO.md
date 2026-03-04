@@ -6,4 +6,4 @@ Documento para el ejercicio colaborativo.
 
 ## Tu mensaje aquí
 
-*(Agrega tu sección cuando hagas el Ejercicio 3)*
+Este es el aporte de Juan Camilo Sanchez Trujillo
