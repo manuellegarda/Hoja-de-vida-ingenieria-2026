@@ -17,10 +17,9 @@ Documento para el ejercicio colaborativo.
 "VIVA el cali" - este es mi aporte
 =======
 =======
-## Tu mensaje aquí
+## sebastian cadena
 
-*(Agrega tu sección cuando hagas el Ejercicio 3)*
->>>>>>> de69619 (mi primer repositorio 2)
+"sebastian cadena hola este es mi aporte "
 =======
 <<<<<<< HEAD
 ## Tu mensaje aquí
