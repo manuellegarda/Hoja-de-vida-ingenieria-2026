@@ -22,3 +22,5 @@ java hojadevida.HojaDeVida
 ## Requisitos
 
 - JDK 11 o superior
+
+1 rellenar los datos personales de mi hoja de vida
