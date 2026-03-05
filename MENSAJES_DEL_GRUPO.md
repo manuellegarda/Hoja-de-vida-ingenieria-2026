@@ -9,4 +9,6 @@ este es el aporte de juan camilo camayo diaz
 
 Este es el aporte de Cristian Santiago Narvaez Bolaños
 este es el aporte de juan camilo camayo diaz 
+
+Danny Valeria Riascos este es mi aporte
 Este es el aporte de Lenoree Sofia Muñoz Lopez 
