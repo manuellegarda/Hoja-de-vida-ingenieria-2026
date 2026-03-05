@@ -23,4 +23,4 @@ java hojadevida.HojaDeVida
 
 - JDK 11 o superior
 
-1 rellenar los datos personales de mi hoja de vida
+primer aporte rellenar los datos personales de mi hoja de vida
