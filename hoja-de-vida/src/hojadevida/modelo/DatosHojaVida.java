@@ -11,7 +11,7 @@ public class DatosHojaVida {
     private String ciudad = "Timbio, Colombia";
     private String telefono = "+57 314 582 7692";
     private String email = "cristian.lucio@unimayor.edu.co";
-    private String github = "github.com/cristian";
+    private String github = "github.com/cristianlucio";
     //---------------------------------------------------
     private String[] habilidadesTecnicas = {"Java", "Programación"};
     private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación", "Resolución de problemas"};
